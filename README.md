@@ -12,3 +12,19 @@
       ***
       ****
       *****
+#### [Program_03](https://github.com/singhgaurav24/Patterns-In-Java/blob/master/Star-Pattern/Pattern_03.java)
+      *****
+      ****
+      ***
+      **
+      *
+#### [Program_04](https://github.com/singhgaurav24/Patterns-In-Java/blob/master/Star-Pattern/Pattern_04.java)
+     *
+     **
+     ***
+     ****
+     *****
+     ****
+     ***
+     **
+     *
