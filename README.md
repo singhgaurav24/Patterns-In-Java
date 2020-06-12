@@ -28,3 +28,16 @@
      ***
      **
      *
+#### [Program_05](https://github.com/singhgaurav24/Patterns-In-Java/blob/master/Star-Pattern/Pattern_05.java) 
+          *
+         **
+        ***
+       ****
+      ***** 
+#### [Program_06](https://github.com/singhgaurav24/Patterns-In-Java/blob/master/Star-Pattern/Pattern_06.java)      
+     ******
+      *****
+       ****
+        ***
+         **
+          *
